@@ -1,0 +1,11 @@
+ECommerce
+1.Ana uygulama (muhtemelen Web API veya MVC)
+
+ECommerce.Entity
+2.Entity sınıflarını içeriyor (veritabanı nesneleri gibi)
+
+ECommerce.Utilities
+3.Yardımcı fonksiyonlar, sabitler, uzantılar vs. olabilir
+
+Ecommerce.DataAccess
+4.Data Access Layer (Entity Framework kullanılıyorsa context ve repository'ler burada olabilir)
